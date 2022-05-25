@@ -295,5 +295,5 @@ CreateThread(function()
 		for _, gasStationCoords in pairs(Config.GasStations) do
 			CreateBlip(gasStationCoords)
 		end
-	end)
-end
+end)
+
